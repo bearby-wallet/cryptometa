@@ -1,0 +1,16 @@
+{
+  "name": "Massa chain token",
+  "symbol": "MAS",
+  "web": "https://massa.net/",
+  "email": "info@massa.net",
+  "links": {
+    "telegram": "https://t.me/massanetwork",
+    "medium": "https://massalabs.medium.com/",
+    "x": "https://twitter.com/massalabs",
+    "github": "https://github.com/massalabs/massa"
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 100 
+  }
+}
