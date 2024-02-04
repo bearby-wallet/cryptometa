@@ -1,6 +1,7 @@
+
 {
-  "name": "Massa chain token",
-  "symbol": "MAS",
+  "name": "Massa chain stake ROL",
+  "symbol": "ROL",
   "web": "https://massa.net/",
   "email": "info@massa.net",
   "links": {
