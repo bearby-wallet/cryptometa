@@ -1,0 +1,16 @@
+{
+  "name": "PepeOnMassa",
+  "symbol": "POM",
+  "web": "https://pepeonmassa.com/",
+  "email": "",
+  "links": {
+    "telegram": "https://t.me/PepeOnMassa",
+    "medium": "",
+    "x": "https://x.com/PepeOnMassa",
+    "github": ""
+  },
+  "gen": {
+    "logo": "logo.png",
+    "score": 100
+  }
+}
