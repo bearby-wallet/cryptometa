@@ -1,0 +1,15 @@
+{
+ "name": "Wrapped Ether",
+ "symbol": "WETH.e",
+ "web": "https://weth.io/",
+ "email": "info@weth.io",
+ "links": {
+  "telegram": null,
+  "medium": "https://medium.com/wrapped-bitcoin",
+  "x": "https://twitter.com/WrappedEther",
+  "github": "https://github.com/WrappedEther"
+ },
+ "gen": {
+  "score": 85
+ }
+}
