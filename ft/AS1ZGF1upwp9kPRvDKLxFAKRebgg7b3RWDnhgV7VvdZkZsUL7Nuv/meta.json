@@ -1,0 +1,16 @@
+{
+ "name": "Dai",
+ "symbol": "DAI",
+ "web": "https://makerdao.com/",
+ "email": "contact@makerdao.com",
+ "links": {
+   "telegram": "https://t.me/makerdao",
+   "medium": "https://medium.com/makerdao",
+   "x": "https://twitter.com/MakerDAO",
+   "github": "https://github.com/makerdao"
+ },
+ "gen": {
+   "logo": "dai_logo.png",
+   "score": 90
+ }
+}
