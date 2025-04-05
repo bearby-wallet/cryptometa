@@ -1,0 +1,16 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC.e",
+  "web": "https://www.circle.com/usdc",
+  "email": "support@circle.com",
+  "links": {
+    "telegram": "https://t.me/circleusdc",
+    "medium": "https://medium.com/circle",
+    "x": "https://twitter.com/circlepay",
+    "github": "https://github.com/circlepay"
+  },
+  "gen": {
+    "logo": "usdc_logo.png",
+    "score": 95
+  }
+}
