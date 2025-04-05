@@ -1,0 +1,15 @@
+{
+ "name": "Tether USD",
+ "symbol": "USDT.b",
+ "web": "https://tether.to/",
+ "email": "contact@tether.to",
+ "links": {
+  "telegram": "https://t.me/tether_official",
+  "medium": "https://medium.com/tether",
+  "x": "https://twitter.com/tether_to",
+  "github": null
+ },
+ "gen": {
+  "score": 80
+ }
+}
